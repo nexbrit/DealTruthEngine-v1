@@ -1,0 +1,181 @@
+Opportunity ID,Opportunity Name,Account Name,Owner,Stage,Amount,Close Date,Created Date,Probability (%),Forecast Category,Type,Days in Stage,Last Activity
+OPP-0001,DataDrive Ltd - Cloud Migration,DataDrive Ltd,James Wilson,Negotiation,188965.87,2024-07-10,2024-03-16,63,Best Case,Renewal,118,2025-11-25
+OPP-0002,Acme Corp - Digital Transformation,Acme Corp,James Wilson,Prospecting,356672.38,2024-06-03,2024-02-17,26,Pipeline,New Business,23,2025-11-24
+OPP-0003,Acme Corp - Managed Services,Acme Corp,Michael Brown,Negotiation,400606.86,2024-05-31,2024-03-27,78,Best Case,New Business,118,2025-12-19
+OPP-0004,DataDrive Ltd - Cloud Migration,DataDrive Ltd,Emma Thompson,Qualification,297915.04,2024-05-31,2024-04-20,13,Pipeline,Expansion,58,2025-12-23
+OPP-0005,TechFlow Inc - Digital Transformation,TechFlow Inc,David Kim,Negotiation,446623.03,2024-07-28,2024-04-21,74,Best Case,New Business,95,2025-12-05
+OPP-0006,Acme Corp - Managed Services,Acme Corp,Lisa Garcia,Commit,343214.22,2025-03-12,2024-11-12,88,Commit,New Business,33,2025-12-27
+OPP-0007,DataDrive Ltd - Cloud Migration,DataDrive Ltd,Sarah Chen,Qualification,229764.4,2024-04-15,2024-02-10,22,Pipeline,Expansion,24,2025-11-19
+OPP-0008,TechFlow Inc - Digital Transformation,TechFlow Inc,David Kim,Proposal,206928.93,2024-05-21,2024-04-12,50,Pipeline,Renewal,124,2025-11-19
+OPP-0009,Acme Corp - Managed Services,Acme Corp,Emma Thompson,Qualification,336948.96,2024-12-20,2024-08-24,30,Pipeline,Renewal,34,2025-12-15
+OPP-0010,DataDrive Ltd - Cloud Migration,DataDrive Ltd,Sarah Chen,Negotiation,263498.96,2024-05-24,2024-03-04,70,Best Case,Expansion,119,2025-12-25
+OPP-0011,Acme Corp - Digital Transformation,Acme Corp,David Kim,Proposal,469597.64,2024-08-29,2024-06-10,45,Pipeline,Renewal,23,2025-11-30
+OPP-0012,Acme Corp - Managed Services,Acme Corp,Emma Thompson,Qualification,242708.06,2025-01-06,2024-10-14,28,Pipeline,Renewal,44,2025-12-04
+OPP-0013,TechFlow Inc - Cloud Migration,TechFlow Inc,Sarah Chen,Closed Lost,226762.27,2024-10-31,2024-09-17,11,Pipeline,New Business,41,2025-11-19
+OPP-0014,Acme Corp - Digital Transformation,Acme Corp,Michael Brown,Proposal,427227.78,2024-05-01,2024-02-02,49,Pipeline,Renewal,34,2025-12-13
+OPP-0015,DataDrive Ltd - Managed Services,DataDrive Ltd,Lisa Garcia,Prospecting,451272.9,2024-06-19,2024-02-28,18,Pipeline,Expansion,53,2025-12-22
+OPP-0016,TechFlow Inc - Cloud Migration,TechFlow Inc,James Wilson,Proposal,302167.84,2024-06-26,2024-05-14,46,Pipeline,Renewal,42,2025-12-10
+OPP-0017,DataDrive Ltd - Digital Transformation,DataDrive Ltd,James Wilson,Qualification,327682.01,2024-10-15,2024-07-10,27,Pipeline,New Business,58,2025-11-21
+OPP-0018,TechFlow Inc - Managed Services,TechFlow Inc,James Wilson,Prospecting,321012.0,2024-09-02,2024-07-04,11,Pipeline,Renewal,29,2025-12-24
+OPP-0019,Acme Corp - Cloud Migration,Acme Corp,James Wilson,Commit,406167.66,2025-01-21,2024-09-29,87,Commit,Expansion,59,2025-11-24
+OPP-0020,Acme Corp - Digital Transformation,Acme Corp,Lisa Garcia,Commit,242769.82,2024-10-12,2024-08-04,88,Commit,Expansion,23,2025-11-17
+OPP-0021,DigitalEdge - Managed Services,DigitalEdge,James Wilson,Proposal,132572.01,2024-05-14,2024-03-02,32,Pipeline,New Business,25,2025-11-22
+OPP-0022,CloudFirst - Cloud Migration,CloudFirst,Sarah Chen,Prospecting,150612.81,2025-02-04,2024-12-28,17,Pipeline,New Business,50,2025-12-08
+OPP-0023,TechFlow Inc - Digital Transformation,TechFlow Inc,Lisa Garcia,Qualification,141698.73,2024-12-17,2024-09-05,14,Pipeline,Renewal,23,2025-11-29
+OPP-0024,CloudFirst - Managed Services,CloudFirst,Sarah Chen,Commit,174154.33,2024-07-01,2024-04-07,95,Commit,Expansion,16,2025-12-02
+OPP-0025,FutureTech - Cloud Migration,FutureTech,David Kim,Negotiation,136042.96,2025-01-16,2024-12-10,63,Best Case,Expansion,51,2025-12-08
+OPP-0026,TechFlow Inc - Digital Transformation,TechFlow Inc,Michael Brown,Qualification,109838.76,2024-10-21,2024-08-17,15,Pipeline,Expansion,18,2025-12-14
+OPP-0027,TechFlow Inc - Managed Services,TechFlow Inc,Sarah Chen,Commit,133175.69,2025-01-15,2024-10-08,95,Commit,New Business,16,2025-12-24
+OPP-0028,CloudFirst - Cloud Migration,CloudFirst,Sarah Chen,Proposal,99957.33,2024-07-06,2024-04-19,35,Pipeline,New Business,35,2025-12-05
+OPP-0029,InnovateCo - Digital Transformation,InnovateCo,David Kim,Negotiation,191182.17,2024-09-17,2024-05-26,77,Best Case,Renewal,37,2025-11-28
+OPP-0030,DataDrive Ltd - Managed Services,DataDrive Ltd,David Kim,Qualification,102787.74,2024-03-07,2024-01-30,27,Pipeline,Renewal,47,2025-12-09
+OPP-0031,Acme Corp - Cloud Migration,Acme Corp,Sarah Chen,Proposal,86017.08,2024-11-07,2024-09-28,46,Pipeline,New Business,20,2025-12-25
+OPP-0032,TechFlow Inc - Digital Transformation,TechFlow Inc,James Wilson,Qualification,161025.51,2024-06-16,2024-03-02,28,Pipeline,New Business,46,2025-11-20
+OPP-0033,TechFlow Inc - Managed Services,TechFlow Inc,Emma Thompson,Proposal,130306.99,2025-01-17,2024-09-24,36,Pipeline,Renewal,30,2025-12-09
+OPP-0034,CloudFirst - Cloud Migration,CloudFirst,Michael Brown,Prospecting,111873.74,2025-01-04,2024-11-26,20,Pipeline,New Business,29,2025-11-30
+OPP-0035,TechFlow Inc - Digital Transformation,TechFlow Inc,Emma Thompson,Qualification,88791.29,2024-07-15,2024-05-15,12,Pipeline,Expansion,18,2025-12-11
+OPP-0036,DataDrive Ltd - Managed Services,DataDrive Ltd,David Kim,Proposal,132582.15,2024-07-04,2024-06-03,46,Pipeline,Renewal,49,2025-11-24
+OPP-0037,InnovateCo - Cloud Migration,InnovateCo,Sarah Chen,Prospecting,191810.72,2024-06-17,2024-03-09,13,Pipeline,New Business,26,2025-12-12
+OPP-0038,InnovateCo - Digital Transformation,InnovateCo,David Kim,Negotiation,152579.58,2024-07-17,2024-04-14,68,Best Case,Expansion,53,2025-12-13
+OPP-0039,Acme Corp - Managed Services,Acme Corp,Sarah Chen,Proposal,91075.82,2024-07-06,2024-05-21,40,Pipeline,Renewal,12,2025-12-13
+OPP-0040,DataDrive Ltd - Cloud Migration,DataDrive Ltd,Sarah Chen,Proposal,168947.71,2024-09-14,2024-08-06,33,Pipeline,Renewal,45,2025-12-20
+OPP-0041,Acme Corp - Digital Transformation,Acme Corp,James Wilson,Proposal,180151.4,2024-05-24,2024-03-16,31,Pipeline,Expansion,37,2025-12-27
+OPP-0042,DigitalEdge - Managed Services,DigitalEdge,Lisa Garcia,Qualification,105209.18,2024-06-10,2024-02-22,23,Pipeline,Renewal,32,2025-12-20
+OPP-0043,CloudFirst - Cloud Migration,CloudFirst,Sarah Chen,Closed Lost,183752.68,2024-06-11,2024-03-31,15,Pipeline,Expansion,36,2025-11-17
+OPP-0044,CloudFirst - Digital Transformation,CloudFirst,Sarah Chen,Negotiation,112016.69,2024-04-23,2024-02-25,75,Best Case,New Business,34,2025-11-30
+OPP-0045,DigitalEdge - Managed Services,DigitalEdge,Sarah Chen,Negotiation,116622.9,2024-07-16,2024-04-26,66,Best Case,Expansion,24,2025-12-12
+OPP-0046,TechFlow Inc - Cloud Migration,TechFlow Inc,Michael Brown,Qualification,196026.69,2025-02-04,2024-11-24,27,Pipeline,New Business,42,2025-12-22
+OPP-0047,InnovateCo - Digital Transformation,InnovateCo,Sarah Chen,Closed Lost,101428.14,2024-08-08,2024-05-15,29,Pipeline,Expansion,12,2025-12-09
+OPP-0048,FutureTech - Managed Services,FutureTech,James Wilson,Proposal,152745.06,2024-08-20,2024-07-16,38,Pipeline,Renewal,46,2025-12-02
+OPP-0049,Acme Corp - Cloud Migration,Acme Corp,David Kim,Commit,142390.44,2025-02-10,2024-12-17,95,Commit,Expansion,56,2025-12-02
+OPP-0050,TechFlow Inc - Digital Transformation,TechFlow Inc,David Kim,Closed Won,193864.94,2025-01-22,2024-11-15,13,Pipeline,Renewal,30,2025-12-10
+OPP-0051,Global Dynamics - Managed Services,Global Dynamics,James Wilson,Proposal,52671.43,2024-08-22,2024-05-31,36,Pipeline,Renewal,45,2025-12-05
+OPP-0052,Global Dynamics - Cloud Migration,Global Dynamics,Michael Brown,Qualification,79850.76,2024-11-17,2024-10-18,27,Pipeline,Expansion,29,2025-12-11
+OPP-0053,FutureTech - Digital Transformation,FutureTech,Michael Brown,Proposal,54391.05,2025-02-25,2024-12-01,44,Pipeline,Renewal,30,2025-12-16
+OPP-0054,Atlas Solutions - Managed Services,Atlas Solutions,Sarah Chen,Closed Won,57854.89,2024-06-30,2024-03-27,19,Pipeline,Renewal,52,2025-11-19
+OPP-0055,Catalyst Ltd - Cloud Migration,Catalyst Ltd,Emma Thompson,Commit,46815.06,2024-06-24,2024-04-30,88,Commit,New Business,53,2025-12-28
+OPP-0056,TechFlow Inc - Digital Transformation,TechFlow Inc,Michael Brown,Proposal,39587.4,2024-05-20,2024-02-07,50,Pipeline,New Business,39,2025-11-15
+OPP-0057,Summit Group - Managed Services,Summit Group,Sarah Chen,Qualification,59550.17,2025-02-23,2024-12-01,13,Pipeline,New Business,54,2025-12-18
+OPP-0058,Metro Systems - Cloud Migration,Metro Systems,Michael Brown,Prospecting,61436.62,2024-08-04,2024-05-07,14,Pipeline,Renewal,17,2025-11-26
+OPP-0059,Pioneer Tech - Digital Transformation,Pioneer Tech,David Kim,Closed Lost,67636.19,2024-11-06,2024-08-14,26,Pipeline,Renewal,49,2025-12-01
+OPP-0060,DigitalEdge - Managed Services,DigitalEdge,James Wilson,Proposal,79492.44,2024-07-16,2024-05-12,50,Pipeline,Renewal,58,2025-11-28
+OPP-0061,Enterprise Plus - Cloud Migration,Enterprise Plus,James Wilson,Proposal,39139.67,2025-03-13,2024-12-31,38,Pipeline,Expansion,28,2025-11-25
+OPP-0062,DataDrive Ltd - Digital Transformation,DataDrive Ltd,David Kim,Qualification,31069.92,2025-01-28,2024-12-21,16,Pipeline,Expansion,19,2025-12-03
+OPP-0063,Apex Industries - Managed Services,Apex Industries,Michael Brown,Proposal,63408.89,2024-08-12,2024-04-15,48,Pipeline,New Business,36,2025-11-23
+OPP-0064,Summit Group - Cloud Migration,Summit Group,Michael Brown,Closed Won,58158.38,2024-09-07,2024-06-01,23,Pipeline,Renewal,58,2025-11-25
+OPP-0065,Catalyst Ltd - Digital Transformation,Catalyst Ltd,Michael Brown,Proposal,91824.91,2024-08-06,2024-05-19,30,Pipeline,Expansion,37,2025-11-17
+OPP-0066,Global Dynamics - Managed Services,Global Dynamics,Lisa Garcia,Negotiation,83851.39,2024-09-29,2024-08-27,77,Best Case,Expansion,18,2025-11-22
+OPP-0067,Nexus Corp - Cloud Migration,Nexus Corp,Michael Brown,Prospecting,73039.98,2024-09-12,2024-08-07,15,Pipeline,Expansion,18,2025-12-05
+OPP-0068,Apex Industries - Digital Transformation,Apex Industries,Michael Brown,Qualification,36932.82,2024-08-22,2024-07-13,18,Pipeline,Expansion,27,2025-12-28
+OPP-0069,United Digital - Managed Services,United Digital,David Kim,Closed Lost,63153.52,2024-10-19,2024-06-28,12,Pipeline,New Business,24,2025-12-28
+OPP-0070,SmartSystems - Cloud Migration,SmartSystems,James Wilson,Prospecting,35948.85,2024-07-12,2024-03-19,25,Pipeline,New Business,25,2025-11-23
+OPP-0071,FutureTech - Digital Transformation,FutureTech,Lisa Garcia,Qualification,57202.72,2024-08-20,2024-07-07,29,Pipeline,New Business,20,2025-12-10
+OPP-0072,CloudFirst - Managed Services,CloudFirst,Michael Brown,Closed Won,66294.78,2024-12-15,2024-10-21,22,Pipeline,New Business,53,2025-11-22
+OPP-0073,Metro Systems - Cloud Migration,Metro Systems,Emma Thompson,Qualification,86445.73,2025-02-05,2024-12-22,29,Pipeline,Renewal,59,2025-12-27
+OPP-0074,Prime Technologies - Digital Transformation,Prime Technologies,David Kim,Negotiation,62619.62,2024-03-07,2024-02-05,70,Best Case,Expansion,42,2025-11-28
+OPP-0075,CloudFirst - Managed Services,CloudFirst,James Wilson,Proposal,54681.87,2024-10-14,2024-08-23,43,Pipeline,Renewal,55,2025-11-26
+OPP-0076,Enterprise Plus - Cloud Migration,Enterprise Plus,Michael Brown,Commit,41606.59,2024-12-26,2024-10-02,92,Commit,Renewal,59,2025-11-22
+OPP-0077,NextGen Solutions - Digital Transformation,NextGen Solutions,Michael Brown,Qualification,45784.37,2024-05-13,2024-02-14,17,Pipeline,Renewal,27,2025-11-20
+OPP-0078,Global Dynamics - Managed Services,Global Dynamics,Michael Brown,Prospecting,50319.14,2024-08-29,2024-06-15,16,Pipeline,Expansion,21,2025-12-08
+OPP-0079,NextGen Solutions - Cloud Migration,NextGen Solutions,Sarah Chen,Negotiation,90425.6,2024-07-14,2024-05-21,76,Best Case,New Business,45,2025-12-14
+OPP-0080,United Digital - Digital Transformation,United Digital,Michael Brown,Proposal,52514.25,2024-08-03,2024-05-03,50,Pipeline,Expansion,54,2025-12-28
+OPP-0081,DataDrive Ltd - Managed Services,DataDrive Ltd,David Kim,Proposal,43538.85,2024-07-20,2024-05-04,48,Pipeline,Expansion,29,2025-11-24
+OPP-0082,Atlas Solutions - Cloud Migration,Atlas Solutions,Emma Thompson,Closed Lost,47500.59,2024-12-11,2024-10-08,24,Pipeline,Expansion,31,2025-12-13
+OPP-0083,SmartSystems - Digital Transformation,SmartSystems,Lisa Garcia,Qualification,29652.47,2024-04-25,2024-03-02,15,Pipeline,New Business,57,2025-11-29
+OPP-0084,NextGen Solutions - Managed Services,NextGen Solutions,Emma Thompson,Closed Lost,77966.8,2024-11-18,2024-09-25,13,Pipeline,Expansion,48,2025-12-15
+OPP-0085,Prime Technologies - Cloud Migration,Prime Technologies,Emma Thompson,Prospecting,34355.32,2024-11-05,2024-09-30,11,Pipeline,Renewal,18,2025-12-11
+OPP-0086,Metro Systems - Digital Transformation,Metro Systems,Sarah Chen,Negotiation,95527.17,2024-11-13,2024-09-08,78,Best Case,Expansion,16,2025-11-29
+OPP-0087,Vertex Labs - Managed Services,Vertex Labs,Sarah Chen,Closed Lost,47256.47,2024-07-29,2024-05-09,12,Pipeline,Expansion,40,2025-12-25
+OPP-0088,Nexus Corp - Cloud Migration,Nexus Corp,Emma Thompson,Prospecting,70355.66,2024-05-17,2024-03-17,12,Pipeline,New Business,46,2025-11-24
+OPP-0089,Sterling Tech - Digital Transformation,Sterling Tech,Lisa Garcia,Proposal,53293.92,2025-02-07,2024-11-12,42,Pipeline,Expansion,24,2025-12-10
+OPP-0090,Nexus Corp - Managed Services,Nexus Corp,Lisa Garcia,Qualification,99202.5,2025-01-08,2024-11-13,13,Pipeline,Renewal,13,2025-12-16
+OPP-0091,NextGen Solutions - Cloud Migration,NextGen Solutions,Sarah Chen,Qualification,72834.25,2024-04-28,2024-03-29,15,Pipeline,Expansion,45,2025-12-01
+OPP-0092,Metro Systems - Digital Transformation,Metro Systems,David Kim,Qualification,67504.9,2024-08-25,2024-04-28,19,Pipeline,Expansion,28,2025-12-25
+OPP-0093,Global Dynamics - Managed Services,Global Dynamics,David Kim,Qualification,38673.9,2025-02-08,2024-11-16,16,Pipeline,New Business,47,2025-11-25
+OPP-0094,SmartSystems - Cloud Migration,SmartSystems,Sarah Chen,Closed Won,71810.78,2024-05-21,2024-03-13,15,Pipeline,Renewal,14,2025-11-23
+OPP-0095,CoreLogic - Digital Transformation,CoreLogic,Michael Brown,Proposal,55132.28,2024-09-06,2024-06-04,38,Pipeline,Renewal,54,2025-11-28
+OPP-0096,Vertex Labs - Managed Services,Vertex Labs,Emma Thompson,Prospecting,26435.35,2024-10-10,2024-08-09,29,Pipeline,New Business,57,2025-12-24
+OPP-0097,SmartSystems - Cloud Migration,SmartSystems,Sarah Chen,Commit,96952.89,2024-12-24,2024-10-21,95,Commit,Renewal,47,2025-12-27
+OPP-0098,Sterling Tech - Digital Transformation,Sterling Tech,Emma Thompson,Proposal,80501.51,2025-03-13,2024-11-29,35,Pipeline,Expansion,38,2025-11-19
+OPP-0099,Quantum Systems - Managed Services,Quantum Systems,Emma Thompson,Proposal,97524.42,2024-09-16,2024-07-28,33,Pipeline,Expansion,31,2025-12-03
+OPP-0100,Metro Systems - Cloud Migration,Metro Systems,Lisa Garcia,Negotiation,59637.52,2024-10-20,2024-07-24,61,Best Case,New Business,58,2025-12-09
+OPP-0101,NextGen Solutions - Digital Transformation,NextGen Solutions,Sarah Chen,Closed Lost,45861.9,2024-10-22,2024-07-25,27,Pipeline,Expansion,42,2025-12-26
+OPP-0102,FutureTech - Managed Services,FutureTech,Michael Brown,Negotiation,61475.15,2024-11-07,2024-09-12,61,Best Case,Expansion,50,2025-11-24
+OPP-0103,InnovateCo - Cloud Migration,InnovateCo,Sarah Chen,Proposal,94213.82,2025-04-12,2024-12-23,30,Pipeline,Renewal,41,2025-12-14
+OPP-0104,Metro Systems - Digital Transformation,Metro Systems,Sarah Chen,Proposal,32670.25,2024-11-22,2024-10-09,37,Pipeline,Expansion,36,2025-12-22
+OPP-0105,Enterprise Plus - Managed Services,Enterprise Plus,David Kim,Proposal,86571.45,2024-08-20,2024-05-29,38,Pipeline,Expansion,42,2025-11-29
+OPP-0106,SmartSystems - Cloud Migration,SmartSystems,Lisa Garcia,Prospecting,56542.92,2024-05-15,2024-04-07,14,Pipeline,Expansion,48,2025-12-03
+OPP-0107,Apex Industries - Digital Transformation,Apex Industries,David Kim,Proposal,94739.87,2024-04-16,2024-01-02,39,Pipeline,Renewal,28,2025-11-17
+OPP-0108,Quantum Systems - Managed Services,Quantum Systems,Emma Thompson,Proposal,89220.85,2024-12-12,2024-09-04,47,Pipeline,Expansion,32,2025-11-30
+OPP-0109,Apex Industries - Cloud Migration,Apex Industries,Michael Brown,Closed Lost,89568.13,2024-07-23,2024-05-02,17,Pipeline,New Business,46,2025-12-09
+OPP-0110,United Digital - Digital Transformation,United Digital,David Kim,Closed Won,57838.1,2024-09-01,2024-07-14,30,Pipeline,Expansion,34,2025-12-27
+OPP-0111,InnovateCo - Managed Services,InnovateCo,Sarah Chen,Proposal,60183.29,2024-05-19,2024-02-21,46,Pipeline,New Business,38,2025-12-20
+OPP-0112,Horizon Digital - Cloud Migration,Horizon Digital,Emma Thompson,Closed Lost,89674.64,2024-05-27,2024-02-08,20,Pipeline,Renewal,40,2025-12-04
+OPP-0113,Enterprise Plus - Digital Transformation,Enterprise Plus,Michael Brown,Qualification,26425.23,2025-03-31,2024-12-11,20,Pipeline,Renewal,44,2025-11-28
+OPP-0114,Pioneer Tech - Managed Services,Pioneer Tech,Emma Thompson,Prospecting,22871.93,2024-12-30,2024-11-19,17,Pipeline,Expansion,53,2025-12-23
+OPP-0115,Sterling Tech - Cloud Migration,Sterling Tech,David Kim,Commit,70699.83,2024-09-17,2024-08-15,89,Commit,New Business,20,2025-12-09
+OPP-0116,TechFlow Inc - Digital Transformation,TechFlow Inc,Lisa Garcia,Proposal,43469.42,2024-06-25,2024-03-15,43,Pipeline,Renewal,25,2025-12-18
+OPP-0117,DigitalEdge - Managed Services,DigitalEdge,David Kim,Negotiation,34005.55,2024-10-15,2024-07-14,67,Best Case,Renewal,49,2025-12-20
+OPP-0118,SmartSystems - Cloud Migration,SmartSystems,Sarah Chen,Qualification,56891.99,2024-07-15,2024-05-10,24,Pipeline,Renewal,52,2025-11-25
+OPP-0119,DigitalEdge - Digital Transformation,DigitalEdge,David Kim,Closed Won,25908.95,2025-02-22,2024-10-27,23,Pipeline,Expansion,29,2025-11-30
+OPP-0120,CoreLogic - Managed Services,CoreLogic,James Wilson,Proposal,35937.36,2024-12-16,2024-09-04,42,Pipeline,Expansion,16,2025-11-23
+OPP-0121,CoreLogic - Cloud Migration,CoreLogic,Emma Thompson,Qualification,99415.36,2025-03-15,2024-12-03,10,Pipeline,Renewal,35,2025-12-26
+OPP-0122,Catalyst Ltd - Digital Transformation,Catalyst Ltd,James Wilson,Commit,79613.77,2024-08-09,2024-05-26,94,Commit,New Business,59,2025-11-19
+OPP-0123,FutureTech - Managed Services,FutureTech,James Wilson,Negotiation,69671.29,2025-01-14,2024-12-03,80,Best Case,Renewal,53,2025-11-18
+OPP-0124,TechFlow Inc - Cloud Migration,TechFlow Inc,David Kim,Proposal,44714.63,2024-12-03,2024-10-23,34,Pipeline,Expansion,33,2025-12-09
+OPP-0125,United Digital - Digital Transformation,United Digital,Lisa Garcia,Qualification,53240.25,2024-12-06,2024-10-03,26,Pipeline,New Business,33,2025-12-13
+OPP-0126,Quantum Systems - Managed Services,Quantum Systems,Michael Brown,Qualification,97390.73,2024-08-09,2024-06-22,12,Pipeline,New Business,17,2025-11-16
+OPP-0127,United Digital - Cloud Migration,United Digital,Sarah Chen,Proposal,73952.5,2024-11-12,2024-10-12,42,Pipeline,Expansion,33,2025-11-25
+OPP-0128,CloudFirst - Digital Transformation,CloudFirst,Lisa Garcia,Negotiation,56382.88,2025-03-31,2024-12-10,72,Best Case,Expansion,26,2025-12-23
+OPP-0129,Global Dynamics - Managed Services,Global Dynamics,Lisa Garcia,Prospecting,38705.75,2025-02-03,2024-10-14,17,Pipeline,New Business,30,2025-11-19
+OPP-0130,Vertex Labs - Cloud Migration,Vertex Labs,James Wilson,Qualification,92751.01,2024-08-31,2024-07-28,11,Pipeline,Expansion,17,2025-11-28
+OPP-0131,CloudFirst - Digital Transformation,CloudFirst,Michael Brown,Commit,27775.36,2024-07-03,2024-03-10,90,Commit,Renewal,34,2025-11-15
+OPP-0132,Pioneer Tech - Managed Services,Pioneer Tech,David Kim,Negotiation,53530.14,2024-06-20,2024-03-20,63,Best Case,Renewal,36,2025-12-03
+OPP-0133,NextGen Solutions - Cloud Migration,NextGen Solutions,James Wilson,Proposal,22617.3,2024-09-26,2024-08-15,41,Pipeline,Renewal,38,2025-12-06
+OPP-0134,Pioneer Tech - Digital Transformation,Pioneer Tech,Emma Thompson,Negotiation,92135.7,2024-03-17,2024-02-01,66,Best Case,Expansion,35,2025-12-24
+OPP-0135,Global Dynamics - Managed Services,Global Dynamics,Emma Thompson,Negotiation,36968.47,2024-02-26,2024-01-11,67,Best Case,Renewal,13,2025-12-16
+OPP-0136,DataDrive Ltd - Cloud Migration,DataDrive Ltd,James Wilson,Proposal,86385.43,2024-12-14,2024-10-27,40,Pipeline,Renewal,23,2025-12-29
+OPP-0137,NextGen Solutions - Digital Transformation,NextGen Solutions,Emma Thompson,Prospecting,88672.49,2024-04-20,2024-03-07,15,Pipeline,Renewal,44,2025-12-28
+OPP-0138,InnovateCo - Managed Services,InnovateCo,Emma Thompson,Negotiation,21188.83,2024-06-22,2024-05-01,60,Best Case,Expansion,47,2025-12-26
+OPP-0139,InnovateCo - Cloud Migration,InnovateCo,Michael Brown,Proposal,79337.44,2024-05-07,2024-02-02,41,Pipeline,Renewal,40,2025-12-23
+OPP-0140,Vertex Labs - Digital Transformation,Vertex Labs,David Kim,Closed Won,60307.1,2024-03-31,2024-01-23,26,Pipeline,Expansion,56,2025-11-18
+OPP-0141,Acme Corp - Managed Services,Acme Corp,David Kim,Proposal,24866.03,2024-10-24,2024-07-24,33,Pipeline,Renewal,37,2025-12-01
+OPP-0142,DataDrive Ltd - Cloud Migration,DataDrive Ltd,James Wilson,Qualification,91941.34,2024-07-03,2024-03-16,18,Pipeline,Renewal,14,2025-11-22
+OPP-0143,Pioneer Tech - Digital Transformation,Pioneer Tech,Emma Thompson,Proposal,76972.22,2025-02-03,2024-11-01,44,Pipeline,Renewal,43,2025-12-02
+OPP-0144,CloudFirst - Managed Services,CloudFirst,Lisa Garcia,Prospecting,83447.69,2025-02-24,2024-12-01,16,Pipeline,Expansion,51,2025-12-15
+OPP-0145,Horizon Digital - Cloud Migration,Horizon Digital,Sarah Chen,Proposal,47114.53,2024-10-23,2024-07-31,40,Pipeline,Expansion,56,2025-11-17
+OPP-0146,NextGen Solutions - Digital Transformation,NextGen Solutions,Sarah Chen,Qualification,49944.08,2024-10-10,2024-08-30,12,Pipeline,Expansion,14,2025-12-23
+OPP-0147,United Digital - Managed Services,United Digital,Lisa Garcia,Commit,79103.68,2025-01-20,2024-10-11,93,Commit,Expansion,13,2025-11-17
+OPP-0148,CloudFirst - Cloud Migration,CloudFirst,Sarah Chen,Commit,52864.69,2024-11-18,2024-08-04,89,Commit,Expansion,56,2025-12-07
+OPP-0149,CloudFirst - Digital Transformation,CloudFirst,James Wilson,Qualification,66233.48,2025-02-14,2024-12-02,13,Pipeline,Renewal,40,2025-12-06
+OPP-0150,CloudFirst - Managed Services,CloudFirst,Lisa Garcia,Proposal,81008.45,2024-12-01,2024-08-07,49,Pipeline,Renewal,45,2025-11-24
+OPP-0151,Acme Corp - Cloud Migration,Acme Corp,Sarah Chen,Negotiation,68719.59,2025-02-23,2024-12-21,65,Best Case,Renewal,27,2025-12-10
+OPP-0152,Apex Industries - Digital Transformation,Apex Industries,David Kim,Qualification,48081.87,2024-04-21,2024-03-14,22,Pipeline,New Business,46,2025-11-19
+OPP-0153,Acme Corp - Managed Services,Acme Corp,Michael Brown,Proposal,27340.61,2024-08-30,2024-07-11,40,Pipeline,Expansion,36,2025-12-10
+OPP-0154,United Digital - Cloud Migration,United Digital,Sarah Chen,Closed Won,45950.63,2024-12-21,2024-11-01,14,Pipeline,Renewal,15,2025-12-26
+OPP-0155,Global Dynamics - Digital Transformation,Global Dynamics,Lisa Garcia,Proposal,26526.52,2024-10-27,2024-08-05,44,Pipeline,Expansion,41,2025-12-16
+OPP-0156,Sterling Tech - Managed Services,Sterling Tech,David Kim,Qualification,60987.7,2024-05-28,2024-02-26,28,Pipeline,Renewal,28,2025-11-17
+OPP-0157,CoreLogic - Cloud Migration,CoreLogic,Sarah Chen,Proposal,23633.39,2025-01-09,2024-11-02,36,Pipeline,New Business,13,2025-12-21
+OPP-0158,Sterling Tech - Digital Transformation,Sterling Tech,David Kim,Qualification,40441.56,2024-02-25,2024-01-04,23,Pipeline,New Business,41,2025-12-05
+OPP-0159,Pioneer Tech - Managed Services,Pioneer Tech,Sarah Chen,Proposal,76293.7,2025-01-12,2024-12-08,42,Pipeline,Expansion,32,2025-12-28
+OPP-0160,Vertex Labs - Cloud Migration,Vertex Labs,Lisa Garcia,Commit,93692.99,2025-02-18,2024-10-21,91,Commit,Renewal,37,2025-12-03
+OPP-0161,CoreLogic - Digital Transformation,CoreLogic,Lisa Garcia,Prospecting,29213.87,2024-10-11,2024-06-15,24,Pipeline,Expansion,20,2025-12-24
+OPP-0162,Horizon Digital - Managed Services,Horizon Digital,Lisa Garcia,Qualification,87558.75,2025-01-16,2024-10-28,12,Pipeline,Expansion,35,2025-12-08
+OPP-0163,SmartSystems - Cloud Migration,SmartSystems,Sarah Chen,Qualification,46645.49,2024-12-22,2024-09-18,26,Pipeline,New Business,50,2025-12-07
+OPP-0164,Prime Technologies - Digital Transformation,Prime Technologies,Sarah Chen,Commit,78190.33,2024-05-17,2024-03-16,87,Commit,New Business,25,2025-12-18
+OPP-0165,Catalyst Ltd - Managed Services,Catalyst Ltd,David Kim,Negotiation,32229.58,2024-05-07,2024-02-08,75,Best Case,Renewal,21,2025-11-22
+OPP-0166,Vertex Labs - Cloud Migration,Vertex Labs,Lisa Garcia,Commit,74490.68,2025-03-15,2024-11-25,90,Commit,Expansion,50,2025-12-20
+OPP-0167,Vertex Labs - Digital Transformation,Vertex Labs,Emma Thompson,Proposal,25462.9,2024-07-11,2024-06-04,48,Pipeline,Expansion,60,2025-11-27
+OPP-0168,DataDrive Ltd - Managed Services,DataDrive Ltd,Emma Thompson,Proposal,44832.63,2024-05-21,2024-01-30,32,Pipeline,New Business,33,2025-11-20
+OPP-0169,Catalyst Ltd - Cloud Migration,Catalyst Ltd,David Kim,Proposal,60565.43,2025-01-05,2024-10-10,31,Pipeline,Renewal,60,2025-11-18
+OPP-0170,FutureTech - Digital Transformation,FutureTech,Michael Brown,Proposal,45722.14,2024-05-30,2024-03-18,33,Pipeline,Renewal,13,2025-12-24
+OPP-0171,Atlas Solutions - Managed Services,Atlas Solutions,Michael Brown,Prospecting,71690.17,2025-04-03,2024-12-28,26,Pipeline,Renewal,38,2025-12-19
+OPP-0172,Prime Technologies - Cloud Migration,Prime Technologies,Emma Thompson,Qualification,49828.16,2024-09-02,2024-07-28,29,Pipeline,Renewal,59,2025-11-18
+OPP-0173,Apex Industries - Digital Transformation,Apex Industries,Emma Thompson,Prospecting,25272.95,2025-04-06,2024-12-13,18,Pipeline,Renewal,34,2025-12-20
+OPP-0174,Apex Industries - Managed Services,Apex Industries,David Kim,Negotiation,26520.16,2024-08-13,2024-06-28,72,Best Case,Renewal,29,2025-12-24
+OPP-0175,CoreLogic - Cloud Migration,CoreLogic,David Kim,Negotiation,64713.77,2024-07-28,2024-06-17,76,Best Case,Renewal,18,2025-11-17
+OPP-0176,Horizon Digital - Digital Transformation,Horizon Digital,James Wilson,Prospecting,60679.08,2024-09-07,2024-06-07,20,Pipeline,New Business,21,2025-12-15
+OPP-0177,InnovateCo - Managed Services,InnovateCo,Lisa Garcia,Qualification,32395.61,2024-03-26,2024-02-21,26,Pipeline,Renewal,42,2025-12-08
+OPP-0178,Sterling Tech - Cloud Migration,Sterling Tech,James Wilson,Proposal,69442.52,2024-05-09,2024-03-19,49,Pipeline,Renewal,20,2025-12-01
+OPP-0179,TechFlow Inc - Digital Transformation,TechFlow Inc,Lisa Garcia,Negotiation,52868.69,2024-07-27,2024-05-01,69,Best Case,New Business,38,2025-11-25
+OPP-0180,SmartSystems - Managed Services,SmartSystems,Emma Thompson,Commit,44757.43,2024-12-09,2024-08-28,95,Commit,Expansion,22,2025-11-30

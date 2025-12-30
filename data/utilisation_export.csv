@@ -1,0 +1,66 @@
+Employee ID,Employee Name,Role,Department,Week Ending,Available Hours,Billable Hours,Non-Billable Hours,PTO Hours,Utilisation %,Bill Rate (GBP),Cost Rate (GBP),Employee Type
+EMP-001,Employee 1,Manager,Applications,2024-12-22,45,35.1,5.9,4.0,78.0,1000,920,FTE
+EMP-002,Employee 2,Senior Consultant,Cloud,2024-12-22,45,32.9,6.6,5.5,73.0,1620,700,FTE
+EMP-003,Employee 3,Manager,Infrastructure,2024-12-22,45,32.2,10.4,2.4,71.6,1880,470,FTE
+EMP-004,Employee 4,Consultant,Infrastructure,2024-12-22,45,34.9,7.0,3.1,77.6,980,930,FTE
+EMP-005,Employee 5,Consultant,Applications,2024-12-22,45,37.3,4.8,2.9,82.9,1930,620,FTE
+EMP-006,Employee 6,Senior Manager,Security,2024-12-22,45,30.4,11.0,3.6,67.5,1100,640,FTE
+EMP-007,Employee 7,Director,Cloud,2024-12-22,45,29.9,13.0,2.1,66.4,1870,850,FTE
+EMP-008,Employee 8,Associate,Security,2024-12-22,45,35.3,7.2,2.6,78.4,1970,930,FTE
+EMP-009,Employee 9,Consultant,Applications,2024-12-22,45,35.8,4.2,5.0,79.6,1370,790,FTE
+EMP-010,Employee 10,Senior Consultant,Data,2024-12-22,45,26.0,15.9,3.0,57.8,1500,1000,FTE
+EMP-011,Employee 11,Associate,Security,2024-12-22,45,31.9,10.7,2.4,70.8,1100,590,FTE
+EMP-012,Employee 12,Senior Consultant,Infrastructure,2024-12-22,45,28.1,12.3,4.6,62.4,1380,440,FTE
+EMP-013,Employee 13,Senior Consultant,Cloud,2024-12-22,45,36.8,3.8,4.4,81.7,1600,720,FTE
+EMP-014,Employee 14,Associate,Cloud,2024-12-22,45,34.3,7.5,3.2,76.3,1580,620,FTE
+EMP-015,Employee 15,Senior Consultant,Cloud,2024-12-22,45,30.4,9.9,4.7,67.6,1470,630,FTE
+EMP-016,Employee 16,Senior Consultant,Infrastructure,2024-12-22,45,31.8,9.1,4.0,70.8,1500,410,FTE
+EMP-017,Employee 17,Consultant,Security,2024-12-22,45,31.1,9.3,4.5,69.1,1120,870,FTE
+EMP-018,Employee 18,Senior Consultant,Cloud,2024-12-22,45,35.3,6.4,3.4,78.3,1780,770,FTE
+EMP-019,Employee 19,Associate,Infrastructure,2024-12-22,45,29.3,13.5,2.2,65.2,1230,920,FTE
+EMP-020,Employee 20,Associate,Applications,2024-12-22,45,35.8,4.5,4.7,79.5,1600,510,FTE
+EMP-021,Employee 21,Manager,Applications,2024-12-22,45,25.8,14.1,5.1,57.4,840,580,FTE
+EMP-022,Employee 22,Senior Consultant,Security,2024-12-22,45,35.3,4.2,5.5,78.4,1990,590,FTE
+EMP-023,Employee 23,Consultant,Security,2024-12-22,45,37.9,3.0,4.2,84.1,840,880,FTE
+EMP-024,Employee 24,Associate,Cloud,2024-12-22,45,28.7,10.8,5.4,63.8,1900,810,FTE
+EMP-025,Employee 25,Consultant,Applications,2024-12-22,45,26.6,14.9,3.5,59.2,1750,680,FTE
+EMP-026,Employee 26,Manager,Applications,2024-12-22,45,30.0,9.1,5.9,66.7,1680,710,FTE
+EMP-027,Employee 27,Consultant,Cloud,2024-12-22,45,35.4,6.6,3.1,78.6,1730,670,FTE
+EMP-028,Employee 28,Senior Consultant,Infrastructure,2024-12-22,45,32.8,6.9,5.3,73.0,1170,600,FTE
+EMP-029,Employee 29,Senior Consultant,Applications,2024-12-22,45,29.3,12.6,3.2,65.0,1570,850,FTE
+EMP-030,Employee 30,Consultant,Cloud,2024-12-22,45,34.0,7.6,3.4,75.5,1730,950,FTE
+EMP-031,Employee 31,Senior Manager,Cloud,2024-12-22,45,33.0,8.3,3.7,73.3,890,820,FTE
+EMP-032,Employee 32,Associate,Data,2024-12-22,45,29.7,10.1,5.2,66.1,830,490,FTE
+EMP-033,Employee 33,Manager,Data,2024-12-22,45,33.8,7.4,3.8,75.1,880,550,FTE
+EMP-034,Employee 34,Manager,Infrastructure,2024-12-22,45,29.8,11.7,3.5,66.1,840,780,FTE
+EMP-035,Employee 35,Senior Consultant,Applications,2024-12-22,45,30.8,10.7,3.5,68.6,1770,440,FTE
+EMP-036,Employee 36,Associate,Security,2024-12-22,45,31.9,9.5,3.6,70.9,1110,470,FTE
+EMP-037,Employee 37,Senior Consultant,Infrastructure,2024-12-22,45,27.4,13.5,4.1,60.9,950,560,FTE
+EMP-038,Employee 38,Manager,Infrastructure,2024-12-22,45,34.2,8.0,2.9,75.9,1160,840,FTE
+EMP-039,Employee 39,Senior Manager,Cloud,2024-12-22,45,31.4,11.1,2.5,69.7,1370,510,FTE
+EMP-040,Employee 40,Manager,Security,2024-12-22,45,30.8,11.9,2.4,68.4,1650,620,FTE
+EMP-041,Employee 41,Associate,Security,2024-12-22,45,32.1,9.7,3.2,71.4,1880,500,FTE
+EMP-042,Employee 42,Associate,Security,2024-12-22,45,37.1,3.4,4.6,82.3,1450,540,FTE
+EMP-043,Employee 43,Senior Consultant,Applications,2024-12-22,45,27.6,14.8,2.6,61.4,830,630,FTE
+EMP-044,Employee 44,Associate,Infrastructure,2024-12-22,45,29.8,10.0,5.2,66.2,960,790,FTE
+EMP-045,Employee 45,Manager,Applications,2024-12-22,45,25.9,15.6,3.6,57.5,1470,660,FTE
+EMP-046,Employee 46,Manager,Security,2024-12-22,45,35.7,7.0,2.3,79.3,1620,440,FTE
+EMP-047,Employee 47,Consultant,Infrastructure,2024-12-22,45,33.8,7.8,3.4,75.2,1610,770,FTE
+EMP-048,Employee 48,Senior Consultant,Cloud,2024-12-22,45,37.6,3.7,3.7,83.5,1860,470,FTE
+EMP-049,Employee 49,Consultant,Data,2024-12-22,45,29.0,13.4,2.6,64.3,1240,1000,FTE
+EMP-050,Employee 50,Senior Manager,Security,2024-12-22,45,36.6,3.0,5.4,81.4,1050,800,FTE
+EMP-051,Employee 51,Senior Manager,Security,2024-12-22,40,34.2,5.8,0.0,85.5,1580,740,Contractor
+EMP-052,Employee 52,Senior Consultant,Infrastructure,2024-12-22,40,37.1,2.9,0.0,92.8,2000,770,Contractor
+EMP-053,Employee 53,Senior Consultant,Infrastructure,2024-12-22,40,37.3,2.7,0.0,93.2,1230,930,Contractor
+EMP-054,Employee 54,Senior Manager,Cloud,2024-12-22,40,32.3,7.7,0.0,80.8,900,420,Contractor
+EMP-055,Employee 55,Senior Manager,Security,2024-12-22,40,38.2,1.8,0.0,95.4,1630,530,Contractor
+EMP-056,Employee 56,Manager,Cloud,2024-12-22,40,35.3,4.7,0.0,88.3,1430,960,Contractor
+EMP-057,Employee 57,Associate,Security,2024-12-22,40,34.3,5.7,0.0,85.8,1410,550,Contractor
+EMP-058,Employee 58,Manager,Security,2024-12-22,40,37.5,2.5,0.0,93.7,1380,440,Contractor
+EMP-059,Employee 59,Associate,Applications,2024-12-22,40,33.3,6.7,0.0,83.2,1410,690,Contractor
+EMP-060,Employee 60,Senior Consultant,Security,2024-12-22,40,36.9,3.1,0.0,92.1,1900,850,Contractor
+EMP-061,Employee 61,Consultant,Security,2024-12-22,40,39.9,0.1,0.0,99.8,1310,480,Contractor
+EMP-062,Employee 62,Manager,Cloud,2024-12-22,40,36.1,3.9,0.0,90.3,1200,550,Contractor
+EMP-063,Employee 63,Consultant,Data,2024-12-22,40,34.1,5.9,0.0,85.3,980,460,Contractor
+EMP-064,Employee 64,Senior Consultant,Infrastructure,2024-12-22,40,39.6,0.4,0.0,98.9,1330,550,Contractor
+EMP-065,Employee 65,Senior Manager,Security,2024-12-22,40,39.2,0.8,0.0,98.0,1990,760,Contractor
