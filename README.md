@@ -15,14 +15,18 @@ DTE transforms scattered evidence (CSV exports, Excel files) into structured, co
 - **AR Ageing Analysis**: DSO trends, dispute concentration
 - **Stress Map**: Visual RAG status across 5 key dimensions
 - **Decision Memo**: AI-generated negotiation recommendations
+- **Demo Mode**: Pre-configured demo deal for instant exploration
+- **Data Visualizations**: Interactive charts for pipeline metrics
 
 ## Tech Stack
 
-- **Frontend**: Next.js 14, React, Tailwind CSS
-- **Backend**: Python FastAPI
+- **Frontend**: Next.js 14, React, Tailwind CSS, Recharts
+- **Backend**: Python FastAPI, SQLAlchemy
 - **Database**: PostgreSQL
 - **AI**: Anthropic Claude API
 - **Containerization**: Docker
+
+> **New to DTE?** See [SETUP.md](./SETUP.md) for detailed setup instructions and troubleshooting.
 
 ## Quick Start
 
@@ -144,6 +148,10 @@ DealTruthEngine-v1/
 ### Memo
 - `POST /api/memo/generate/{deal_id}` - Generate decision memo
 
+### Demo
+- `POST /api/demo/seed` - Seed demo deal with pre-analyzed data
+- `GET /api/demo/memo-content` - Get pre-generated memo content
+
 ## Stress Lines
 
 DTE tracks 5 key stress lines:
@@ -158,7 +166,18 @@ Each stress line has:
 - **Status**: Green, Amber, Red, Grey
 - **Confidence**: High, Medium, Low, None
 
-## Demo Flow
+## Demo Mode
+
+### Quick Demo (No Setup Required)
+
+1. Open http://localhost:3000
+2. Click **"Try Demo"** button
+3. Explore the pre-configured "CloudOps Ltd" deal with:
+   - Pre-analyzed stress map (all 5 dimensions)
+   - Pipeline, Utilisation, and AR analyses complete
+   - Ready-to-view decision memo
+
+### Full Demo Flow
 
 1. Create a new deal (e.g., "CloudOps Ltd Acquisition")
 2. Upload pipeline_export.csv
@@ -166,6 +185,11 @@ Each stress line has:
 4. Run pipeline analysis
 5. View stress map updates
 6. Generate decision memo
+
+### Demo API
+
+- `POST /api/demo/seed` - Create demo deal with pre-analyzed data
+- `GET /api/demo/memo-content` - Get pre-generated memo content
 
 ## Environment Variables
 
