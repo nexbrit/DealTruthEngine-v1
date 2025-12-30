@@ -24,6 +24,7 @@ import {
   RefreshCw,
 } from 'lucide-react';
 import { Button } from '@/components/ui/button';
+import { PageSkeleton } from '@/components/ui/skeleton';
 
 const STAGE_CONFIG = {
   in_sight: { label: 'In Sight', variant: 'secondary' as const },
@@ -93,11 +94,7 @@ export default function DealDetailPage() {
   };
 
   if (loading) {
-    return (
-      <div className="flex items-center justify-center min-h-[400px]">
-        <Loader2 className="w-8 h-8 text-zinc-400 animate-spin" />
-      </div>
-    );
+    return <PageSkeleton />;
   }
 
   if (error || !deal) {
@@ -127,6 +124,11 @@ export default function DealDetailPage() {
             <div className="flex items-center gap-3">
               <h1 className="text-2xl font-bold text-white">{deal.name}</h1>
               <Badge variant={stageConfig.variant}>{stageConfig.label}</Badge>
+              {deal.target_company === 'CloudOps Ltd' && (
+                <Badge variant="outline" className="border-amber-500/30 text-amber-400 bg-amber-500/10">
+                  Demo
+                </Badge>
+              )}
             </div>
             <p className="text-zinc-400">{deal.target_company}</p>
             <div className="flex items-center gap-4 mt-2 text-sm text-zinc-500">
@@ -256,7 +258,7 @@ export default function DealDetailPage() {
             {/* Memo Tab */}
             <TabsContent value="memo" className="mt-4">
               <div className="bg-zinc-900 rounded-lg border border-zinc-800 p-6">
-                <MemoViewer dealId={dealId} />
+                <MemoViewer dealId={dealId} isDemo={deal.target_company === 'CloudOps Ltd'} />
               </div>
             </TabsContent>
           </Tabs>

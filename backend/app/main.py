@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from app.routers import deals, evidence, analysis, memo
+from app.routers import deals, evidence, analysis, memo, demo
 from app.database import engine
 from app.models import Base
 
@@ -27,6 +27,7 @@ app.include_router(deals.router, prefix="/api/deals", tags=["deals"])
 app.include_router(evidence.router, prefix="/api/evidence", tags=["evidence"])
 app.include_router(analysis.router, prefix="/api/analysis", tags=["analysis"])
 app.include_router(memo.router, prefix="/api/memo", tags=["memo"])
+app.include_router(demo.router, prefix="/api/demo", tags=["demo"])
 
 
 @app.get("/health")

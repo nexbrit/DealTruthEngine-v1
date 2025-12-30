@@ -1,6 +1,8 @@
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
 import './globals.css'
+import { Providers } from '@/components/Providers'
+import { ErrorBoundary } from '@/components/ErrorBoundary'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -17,26 +19,43 @@ export default function RootLayout({
   return (
     <html lang="en" className="dark">
       <body className={`${inter.className} min-h-screen bg-zinc-950`}>
-        <div className="flex flex-col min-h-screen">
-          <header className="border-b border-zinc-800 bg-zinc-900/50 backdrop-blur-sm sticky top-0 z-50">
-            <div className="container mx-auto px-4 h-16 flex items-center justify-between">
-              <a href="/" className="flex items-center gap-2">
-                <div className="w-8 h-8 bg-green-600 rounded-lg flex items-center justify-center">
-                  <span className="text-white font-bold text-sm">DT</span>
-                </div>
-                <span className="text-white font-semibold text-lg">Deal Truth Engine</span>
-              </a>
-              <nav className="flex items-center gap-4">
-                <a href="/" className="text-zinc-400 hover:text-white transition-colors text-sm">
-                  Deals
+        <Providers>
+          <div className="flex flex-col min-h-screen">
+            <header className="border-b border-zinc-800 bg-zinc-900/80 backdrop-blur-md sticky top-0 z-50">
+              <div className="container mx-auto px-4 h-16 flex items-center justify-between">
+                <a href="/" className="flex items-center gap-3 group">
+                  <div className="w-10 h-10 bg-gradient-to-br from-green-500 to-green-600 rounded-xl flex items-center justify-center shadow-lg shadow-green-500/20 group-hover:shadow-green-500/30 transition-shadow">
+                    <span className="text-white font-bold text-lg">DT</span>
+                  </div>
+                  <div>
+                    <span className="text-white font-semibold text-lg block leading-tight">Deal Truth Engine</span>
+                    <span className="text-zinc-500 text-xs">PE Due Diligence Platform</span>
+                  </div>
                 </a>
-              </nav>
-            </div>
-          </header>
-          <main className="flex-1">
-            {children}
-          </main>
-        </div>
+                <nav className="flex items-center gap-6">
+                  <a href="/" className="text-zinc-400 hover:text-white transition-colors text-sm font-medium">
+                    Deals
+                  </a>
+                  <div className="h-4 w-px bg-zinc-800" />
+                  <span className="text-xs text-zinc-600 font-medium px-2 py-1 bg-zinc-900 rounded border border-zinc-800">
+                    DEMO
+                  </span>
+                </nav>
+              </div>
+            </header>
+            <main className="flex-1">
+              <ErrorBoundary>
+                {children}
+              </ErrorBoundary>
+            </main>
+            <footer className="border-t border-zinc-800 py-4">
+              <div className="container mx-auto px-4 flex items-center justify-between text-xs text-zinc-600">
+                <span>Deal Truth Engine v0.1.0</span>
+                <span>Powered by Claude AI</span>
+              </div>
+            </footer>
+          </div>
+        </Providers>
       </body>
     </html>
   )
